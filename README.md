@@ -2,6 +2,7 @@
 ZCrypto Bot is a Crypto Technical Analysis Discord Bot.
 
 invite the bot to your discord server : https://bot.zcryptobot.com/
+
 support server : https://discord.gg/RWtT7Nx9jh
 
 # Features 
