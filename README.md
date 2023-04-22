@@ -1,6 +1,8 @@
 # **ZCrypto BOT**
 ZCrypto Bot is a Crypto Technical Analysis Discord Bot.
 
+invite the bot to your discord server : https://bot.zcryptobot.com/
+
 # Features 
 * Watches the BTC, ETH , LTC and other Crypto prices  every 20 secs
 * Price Alarm reminder
