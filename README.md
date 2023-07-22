@@ -5,6 +5,7 @@ invite the bot to your discord server : https://bot.zcryptobot.com/
 
 support server : https://discord.gg/RWtT7Nx9jh
 
+
 # Features 
 * Watches the BTC, ETH , LTC and other Crypto prices  every 20 secs
 * Price Alarm reminder
@@ -30,7 +31,7 @@ _**Exclusive Features for ZCrypto**_
 
 ### commands
 The Bot operates with Slash Commands now 
-
+![command](https://github.com/TZacksEG/Crypto-Discord-bot/assets/106902748/3ade6e84-a904-4509-9655-212f4dffb72d)
 
 
 ![image](https://user-images.githubusercontent.com/106902748/207656524-42c2364e-fd9b-4e8f-aae5-c3aeb5dbc440.png)
